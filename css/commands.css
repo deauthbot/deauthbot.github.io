@@ -24,7 +24,6 @@ body {
 }
 
 
-
 /* width */
 ::-webkit-scrollbar {
     width: 8px;
@@ -332,7 +331,6 @@ ul {
 }
 
 
-
 /* Extra small devices (phones, 650px and down) */
 @media (max-width: 900px) {
 
@@ -403,7 +401,6 @@ ul {
     .left {
         display: none;
     } */
-
     .sidepanel a.title {
         background-color: #0F0F10;
     }
